@@ -92,3 +92,8 @@ ul li.active a{
 	background-color: #fff;
 	color: #000;
 }
+
+.who{
+	position: absolute;
+	top: 40%;
+	left: 25%;
